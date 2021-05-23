@@ -33,11 +33,11 @@ This Layer implements the Business Logic.
 
 # How to get started?
 You Require
-## JDK 11
-## Maven 3.6.3
-## Postgres
+JDK 11
+Maven 3.6.3
+Postgres
 
-## Clone the repo & run mvn clean install in terminal
-## Run Application 
-## And Hit http://localhost:8080/swagger-ui.html#/ on browser 
-## And Test the APIs using Postman
+Clone the repo & run mvn clean install in terminal
+Run Application 
+And Hit http://localhost:8080/swagger-ui.html#/ on browser 
+And Test the APIs using Postman
