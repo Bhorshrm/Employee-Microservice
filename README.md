@@ -26,7 +26,7 @@ This Layer implements the Business Logic.
 # Tech 
 #### Microservice Framework Used : Spring Boot (Version 2.4.1) 
 #### Unittest Framework Used : Junit , Mockito
-#### Database Used : Postgres (Configuration Setup in Application.properties
+#### Database Used : Postgres (Configuration Setup in Application.properties )
 #### Documentation : Swagger (Version 2.7.0)
 #### Application Server : Apache Tomcat
 #### Project management tool : Maven (Version 3.6.3)
