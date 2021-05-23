@@ -37,7 +37,7 @@ JDK 11
 Maven 3.6.3
 Postgres
 
-1. the repo & run mvn clean install in terminal
+1. Clone the repo & run mvn clean install in terminal
 2. Run Application 
 3. And Go to http://localhost:8080/swagger-ui.html#/ on browser 
 4. And Test the APIs using Postman
