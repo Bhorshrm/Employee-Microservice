@@ -24,12 +24,20 @@ world.
 This Layer implements the Business Logic.
 
 # Tech 
-### Microservice Framework Used : Spring Boot (Version 2.4.1) 
-### Unittest Framework Used : Junit , Mockito
-### Database Used : Postgres (Configuration Setup in Application.properties
-### Documentation : Swagger (Version 2.7.0)
-### Application Server : Apache Tomcat
-### Project management tool : Maven (Version 3.6.3)
+#### Microservice Framework Used : Spring Boot (Version 2.4.1) 
+#### Unittest Framework Used : Junit , Mockito
+#### Database Used : Postgres (Configuration Setup in Application.properties
+#### Documentation : Swagger (Version 2.7.0)
+#### Application Server : Apache Tomcat
+#### Project management tool : Maven (Version 3.6.3)
 
 # How to get started?
 You Require
+## JDK 11
+## Maven 3.6.3
+## Postgres
+
+## Clone the repo & run mvn clean install in terminal
+## Run Application 
+## And Hit http://localhost:8080/swagger-ui.html#/ on browser 
+## And Test the APIs using Postman
