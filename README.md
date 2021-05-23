@@ -33,9 +33,7 @@ This Layer implements the Business Logic.
 
 # How to get started?
 You Require
-JDK 11
-Maven 3.6.3
-Postgres
+JDK 11,Maven 3.6.3 & Postgres
 
 1. Clone the repo & run mvn clean install in terminal
 2. Run Application 
