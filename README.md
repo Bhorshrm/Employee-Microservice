@@ -10,10 +10,10 @@ A Microservice to maintain Employee and it's Organisation  Information.
 #### Project management tool : Maven (Version 3.6.3)
 
 # API Documentation
-<a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/OrgEmployee_Microservice/blob/main/Screenshot%202021-05-23%20at%207.36.42%20PM.png" ></a>
+<a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/OrgEmployee_Microservice/blob/main/Screenshot%202021-05-23%20at%207.36.42%20PM.png" ></a>
 
 # API WorkFlow
-<a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/OrgEmployee_Microservice/blob/main/controller-and-restcontroller-annotations-in-spring-boot-1.jpeg" ></a>
+<a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/OrgEmployee_Microservice/blob/main/controller-and-restcontroller-annotations-in-spring-boot-1.jpeg" ></a>
 
 
 # Microservice Archectiture (Introduction by Modules)
